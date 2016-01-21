@@ -5,3 +5,4 @@ Stuff
 
 . . . that got changed mid-branch
 . . . that got changed after a commit
+. . . that got changed after a push
