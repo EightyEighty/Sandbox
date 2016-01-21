@@ -3,4 +3,5 @@ Is
 Some
 Stuff
 
-. . . that got changed mid-branch.
+. . . that got changed mid-branch
+. . . that got changed after a commit
